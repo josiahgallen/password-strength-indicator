@@ -1,5 +1,5 @@
 # password-strength-indicator
-Password Strength Indicator*​
+Password Strength Indicator
 
 Functions help you abstract away complex operations, but they also help you build reusable components.
 
